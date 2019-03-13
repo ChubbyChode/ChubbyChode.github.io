@@ -4,6 +4,8 @@ title:  "Welcome to Jekyll!"
 date:   2019-03-11 12:07:01 +0000
 categories: jekyll update
 ---
+(This is from the _post file.)
+
 ChubbyChode's first test post. I'm leaving the rest so I can read it again later.
 
 You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
