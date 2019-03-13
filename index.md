@@ -11,4 +11,3 @@ layout: home
   <h1>Second Heading</h1>
   <p>Just some casual text</p>
 </head>
-</html>  
