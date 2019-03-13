@@ -16,7 +16,7 @@
 title: ChubbyChode's Website
 email: Don'temailme@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Jesus loves you, and Chode does too.
+  (From description in _config file) Jesus loves you, and Chode does too.
 baseurl: "/Idontknowwhatthisdoesyet" # the subpath of your site, e.g. /blog
 url: "https://chubbychode.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tweettweet_I_don't_exist
